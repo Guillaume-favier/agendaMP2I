@@ -8,6 +8,8 @@ Mercredi 18/10:
   - Relire bien le cours.
   - Lecture des deux premières pages de la FTP2 en PJ dans le même mail que l'histograme des notes.
 Vendredi 20/10:
+- Info :
+  - Faire et rendre TP7 via Github
 - Maths:
   - intero du matin sur feuilles de calculs 4 et 5 et le formulaire de trigo
 Lundi 06/11:
