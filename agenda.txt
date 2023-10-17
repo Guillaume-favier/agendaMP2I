@@ -17,6 +17,6 @@ Lundi 06/11:
   - Transition rédigée
   - Plan commentaire
 Mardi 07/11:
-- Maths
+- Maths :
   - Refaire les Exo 1,2,3 du DS
   - Devoir 6 (DM)
