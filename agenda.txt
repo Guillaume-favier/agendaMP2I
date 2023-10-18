@@ -14,7 +14,7 @@ Jeudi 19/10 :
   - Préparer des exercices pour le TD n°5
 Vendredi 20/10:
 - Info :
-  - Faire et rendre TP7 via Github
+  - Faire et rendre TP7 via Github ou Moodle
 
 - Maths:
   - intero du matin sur feuilles de calculs 4 et 5 et le formulaire de trigo
