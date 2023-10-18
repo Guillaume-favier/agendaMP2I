@@ -2,8 +2,6 @@ Jeudi 19/10 :
 - Math :
   - Préparer des exercices pour le TD n°5
 Vendredi 20/10:
-- Info :
-  - Faire et rendre TP7 via Github ou Moodle
 
 - Maths:
   - intero du matin sur feuilles de calculs 4 et 5 et le formulaire de trigo
@@ -19,6 +17,9 @@ Lundi 06/11:
   - Transition rédigée
   - Plan commentaire
   - Faire le programme de devoirs de la prof pour les vacances (envoyer par mail)
+
+- Info :
+  - Faire et rendre TP7 via Github ou Moodle
 Mardi 07/11:
 - Maths :
   - Refaire les Exo 1,2,3 du DS
