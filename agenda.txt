@@ -4,6 +4,9 @@ Mercredi 29/11 :
   - A la question 6 du TD M1, la lettre bizarre est un Θ point
 Vendredi 01/12 :
 - Physique :
+  - Venir en TP avec son ordi et une bonne version de python
+  - TD M1n1 ex2) 3) 6)
+  - intéro : Méca et carte SCRIBZEE d'interférence 
   - Finir le TP et faire le contre rendu
 Lundi 04/12 :
 - Anglais :
