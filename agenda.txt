@@ -1,7 +1,3 @@
-Mercredi 29/11 :
-- Physique :
-  - TD M1 n·1 exercice 5 sauf fin 4) (c'est chaud)
-  - A la question 6 du TD M1, la lettre bizarre est un Θ point
 Vendredi 01/12 :
 - Physique :
   - Venir en TP avec son ordi et une bonne version de python
