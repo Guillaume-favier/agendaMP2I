@@ -9,3 +9,8 @@ Lundi 04/12 :
 Mardi 05/12 :
 - Maths :
   - Rendre le devoir 9
+Mercredi 06/12 :
+- Physique :
+  - lire FM6
+  - ramener ordi
+  - FM Td mesure et insertitudes : ex3 et ex 1 (utiliser python et le script) (long)
