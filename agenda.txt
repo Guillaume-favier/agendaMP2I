@@ -2,4 +2,4 @@ Mercredi 06/12 :
 - Physique :
   - Lire FM6
   - Ramener ordinateur
-  - Faire TD FM6 "Mesure et Insertitudes" : ex3 et ex 1 (utiliser python et le script) (long)
+  - Faire TD FM6 "Mesure et Incertitudes" : ex3 et ex 1 (utiliser python et le script) (long)
