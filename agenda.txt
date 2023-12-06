@@ -7,3 +7,5 @@ Vendredi 08/12 :
 - Physique :
   - Lire le TP 
   - Amener son ordinateur 
+  - Bien comprendre le Script Monte Carlo + Regression linéaire
+  - Décortiquer script
