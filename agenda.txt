@@ -1,11 +1,9 @@
-Mercredi 06/12 :
-- Physique :
-  - Lire FM6
-  - Ramener ordinateur
-  - Faire TD FM6 "Mesure et Incertitudes" : ex3 et ex 1 (utiliser python et le script) (long)
 Vendredi 08/12 :
 - Physique :
   - Lire le TP 
   - Amener son ordinateur 
   - Bien comprendre le Script Monte Carlo + Regression linéaire £https://cahier-de-prepa.fr/mp2i-liv/download?id=114£LE TD
   - Décortiquer script £https://colab.research.google.com/drive/1x_88tyn1FhErE0o-x3cW5G4jcOdLsrgD?usp=sharing£Correction Prof
+Jeudi 21/12 :
+- Français :
+  - En binôme : plan détaillé I) 1)2)3) II) 1)2)3) et 3 exemple par sous parties. Faire référence aux 4 œuvres "L'homme n'est donc que déguisement, aue mensonge et hypocrisie, et en soi-même et a l'egard des autres. Il ne veut donc pas quon lui dise la vérité. Il evite 'de' la dire aux autres; et toutes ses dispositions, si ébignées de la justice et de la raison, ong une racine naturelle dans son cœur"
