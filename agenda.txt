@@ -1,9 +1,3 @@
-Vendredi 08/12 :
-- Physique :
-  - Lire le TP 
-  - Amener son ordinateur 
-  - Bien comprendre le Script Monte Carlo + Regression linéaire £https://cahier-de-prepa.fr/mp2i-liv/download?id=114£LE TD
-  - Décortiquer script £https://colab.research.google.com/drive/1x_88tyn1FhErE0o-x3cW5G4jcOdLsrgD?usp=sharing£Correction Prof
 Lundi 11/12:
 - Physique :
   - TD M1 n°2 faire exo 1 et 2
