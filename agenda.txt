@@ -4,6 +4,10 @@ Vendredi 08/12 :
   - Amener son ordinateur 
   - Bien comprendre le Script Monte Carlo + Regression linéaire £https://cahier-de-prepa.fr/mp2i-liv/download?id=114£LE TD
   - Décortiquer script £https://colab.research.google.com/drive/1x_88tyn1FhErE0o-x3cW5G4jcOdLsrgD?usp=sharing£Correction Prof
+Lundi 11/12:
+- Physique :
+  - TD M1 n°2 faire exo 1 et 2
+  - Faire questionnaire Qmax
 Jeudi 21/12 :
 - Français :
   - En binôme : plan détaillé I) 1)2)3) II) 1)2)3) et 3 exemples par sous parties. Faire référence aux 4 œuvres. A rendre de préférence sur l'ordinateur. Sujet : "L'homme n'est donc que déguisement, que mensonge et hypocrisie, et en soi-même et à l'égard des autres. Il ne veut donc pas qu'on lui dise la vérité. Il évite de la dire aux autres; et toutes ses dispositions, si éloignées de la justice et de la raison, ont une racine naturelle dans son cœur"
