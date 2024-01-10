@@ -1,12 +1,7 @@
-Mercredi 10/01:
-- Physique:
-  - finir avec le DM
-  - TD commencer exercice Marsupilami faire schéma avec les 3 situations. (le système est le Marsupilami sans sa queue)
-  - Télecharger ChronoPhys qui permet de faire des cheono photographies avec des videos
-  - Reflechir a des projets de chronophotographie 
 Lundi 15/01 :
 - Physique :
   - Chronophotographie : reflechir encore.
+- Télecharger ChronoPhys qui permet de faire des chrono photographies avec des videos. Attention pour mac il faut prendre le code source, télécharger les bibliothèques et executer le main. £https://www.ensciences.fr/chronophys.php£Téléchargement
 - Anglais :
   - Finir la fiche d'anglais sur Must
   - Remplir le vocabulaire fiche Bioethics
