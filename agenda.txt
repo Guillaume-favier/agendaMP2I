@@ -1,14 +1,7 @@
-Lundi 15/01 :
-- Physique :
-  - Chronophotographie : reflechir encore.
-  - Télecharger ChronoPhys qui permet de faire des chrono photographies avec des videos. Attention pour mac il faut prendre le code source, télécharger les bibliothèques et executer le main. £https://www.ensciences.fr/chronophys.php£Téléchargement
-  - Faire exercice 9 du TD
-- Anglais :
-  - Finir la fiche d'anglais sur Must
-  - Remplir le vocabulaire fiche Bioethics
 Mercredi 17/01 :
 - Physique :
   - Lire Documents 1 du nouveau chapitre 
+  - Faire exercice 9 du TD
 Vendredi 20/01:
 - Physique :
   - TP Chronophotographie : Faire video TP et preparer equation mouvement £https://www.ensciences.fr/chronophys.php£Téléchargement
