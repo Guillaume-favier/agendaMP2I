@@ -4,4 +4,4 @@ Vendredi 26/01 :
   - Faire sujet C de la fiche de la fiche methode
   - compte rendu de Tp
 - Maths:
-  - minids : jusqu'à domination non compris .
+  - minids : jusqu'à domination non compris + formulaire développement limité 
