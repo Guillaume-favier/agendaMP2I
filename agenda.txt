@@ -1,4 +1,7 @@
 Vendredi 26/01 :
-- ENTRAÎNEMENT MAXIMAL SUR L'ELEC POUR GAGNER UN PAQUET DE BONBON.
-- Faire sujet C de la fiche de la fiche methode
-- Physique compte rendu de Tp
+- Physique:
+  - ENTRAÎNEMENT MAXIMAL SUR L'ELEC POUR GAGNER UN PAQUET DE BONBON.
+  - Faire sujet C de la fiche de la fiche methode
+  - compte rendu de Tp
+- Maths:
+  - minids : jusqu'à domination non compris .
