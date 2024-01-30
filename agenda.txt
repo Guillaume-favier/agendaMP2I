@@ -5,7 +5,7 @@ Mercredi 31/01 :
 - Physique :
   - Savoir refaire le calcul de zM pour l'oscilloscope uniquement à l'aide de ses connaisances
   - Regarder les deux vidéos (regarder #physique sur le discord ou le mail qu'elle a envoyé)
-  - Savoir refaire le calcul du rayon R d'une cyclotron (pas sûr mais ça vous tuera pas)
+  - Savoir refaire le calcul du rayon R d'une cyclotron 
 Vendredi 02/02:
 - Physique :
   - Faire la petite fiche sur le travail (optionnel)
