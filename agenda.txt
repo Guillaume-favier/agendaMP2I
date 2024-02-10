@@ -1,7 +1,3 @@
-Vendredi 09/12 :
-- Physique :
-  - Tp en salle d'optique
-  - Lire et compléter jusqu'à la page 5 inclus du chapitre E1
 Lundi 12/02 :
 - Info :
   - Faire Q12 et Q13 (2 algos celui du DS et celui par induction)
