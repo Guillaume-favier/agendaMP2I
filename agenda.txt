@@ -9,5 +9,7 @@ Mardi 20/02 :
   - Lire lettre 75 a 78
 
 Mercredi 21/02:
+- Physique
+  - TD faire l'ex 3 et avancer le 4 du Td
 - Info :
-terminer Ex3
+  - terminer Ex3
