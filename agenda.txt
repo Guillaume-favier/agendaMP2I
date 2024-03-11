@@ -12,3 +12,8 @@ Mardi 12/03 :
 - Français :
   - Résumé de type CCP ne ps envoyer par mail. sauter des lignes pour correction.
   - Lire Lorenzaccio
+
+Mercredi 13/03 :
+- Physique :
+  - Revoir exo 8 et faire exo 6
+  - Lire grand 1 du nouveau chapitre 
