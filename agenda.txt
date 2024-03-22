@@ -8,3 +8,7 @@ Lundi 25/03 :
 - Informatique :
   - Avancer sur le TD3 sur les graphes
 - Anglais :
+
+Vendredi 29/03 :
+- Physique :
+  - Faire le script python sans les incertitudes 
