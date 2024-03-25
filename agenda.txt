@@ -4,6 +4,11 @@ Lundi 25/03 :
   - mini oraux
 - Anglais :
 
+Mercredi 27/03 :
+- Physique :
+  - Refaire fiche entraînement 
+  - Faire exercice 1 et 2 du TD O5 n°3
+  - Faire exercice 5 question 1 et 2 du TD O5 n°3
 Vendredi 29/03 :
 - Physique :
   - Faire le script python sans les incertitudes 
