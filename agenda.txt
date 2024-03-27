@@ -1,10 +1,6 @@
-Mercredi 27/03 :
-- Physique :
-  - Refaire fiche entraînement
-  - Faire ex 1, 2 et 5 question 1, 2 et 3 du TD O5 n°3
 Vendredi 29/03 :
 - Physique :
-  - Refaire le 5 et faire l'ex 6 (a maitriser) pour poursuivre faire le 3
+  - Refaire le 5 et faire l'ex 6 (a maitriser) pour poursuivre faire le 3 du TD O5 n°3
   - Faire le script python sans les incertitudes 
 Mardi 02/04 :
 - Français :
