@@ -1,7 +1,7 @@
 Vendredi 29/03 :
 - Physique :
   - Refaire le 5 et faire l'ex 6 (a maitriser) pour poursuivre faire le 3 du TD O5 n°3
-  - Faire le script python sans les incertitudes 
+  - Faire le script python sans les incertitudes (pour tp o1 n°7)
 Mardi 02/04 :
 - Français :
   - Relire l'acte 3 scène 3 et souligner 3 phrases de Lorenzo
