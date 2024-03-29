@@ -7,4 +7,10 @@ Mardi 02/04 :
   - Relire l'acte 3 scène 3 et souligner 3 phrases de Lorenzo
   - Regarder le film "Au temps de l'innocence" 
 - Physique :
-  - Faire et rendre le script python du TP o1 n°7
+  - Faire et rendre le script python du TP o1 n°7 par mail
+
+Mercredi 03/04 :
+- Physique :
+  - TD filtre finir
+  - Ex 1 et 2 sur TMC (pas long)
+  - CN4 faire 1. (retrouver l'eq diff) donc se replonger dans la meca.
