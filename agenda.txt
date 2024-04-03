@@ -6,6 +6,7 @@ Mercredi 03/04 :
 
 Vendredi 05/04 :
 - Physique
+  - intero TMC
   - intero filtres : exo de kholles (analyse diagrame de Bode)
 
 Lundi 08/04 :
