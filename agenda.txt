@@ -7,7 +7,7 @@ Mercredi 03/04 :
 Vendredi 05/04 :
 - Physique :
   - M5 force centrale lire I et II
-  - préparer le TP O5 n3 questions 1, 2, 4 et 5
+  - préparer le TP O5 n3 questions 1 et 2
   - intero TMC
   - intero filtres : exo de kholles (analyse diagrame de Bode)
 
