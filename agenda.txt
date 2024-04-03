@@ -5,7 +5,9 @@ Mercredi 03/04 :
   - CN4 faire 1. (retrouver l'eq diff) donc se replonger dans la meca.
 
 Vendredi 05/04 :
-- Physique
+- Physique :
+  - M5 force centrale lire I et II
+  - préparer le TP O5 n3 questions 1, 2, 4 et 5
   - intero TMC
   - intero filtres : exo de kholles (analyse diagrame de Bode)
 
