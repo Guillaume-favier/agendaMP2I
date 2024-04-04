@@ -1,9 +1,3 @@
-Mercredi 03/04 :
-- Physique :
-  - TD filtre finir
-  - Ex 1 et 2 sur TMC (pas long)
-  - CN4 faire 1. (retrouver l'eq diff) donc se replonger dans la meca.
-
 Vendredi 05/04 :
 - Physique :
   - M5 force centrale lire I et II
