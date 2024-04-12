@@ -1,9 +1,5 @@
-Vendredi 12/04 :
-- Physique :
-  - Essayer de finir TD force centrale ou avencer au max
-
 Samedi 13/04 :
-- long problème avec des fonctions en Ocaml, et du raisonnement. Pas de Djikstra ni de Floyd-Warshall. On aura le droit d'utiliser une fonction dans une questions précédente même si on a skip cette question.
+- long problème avec des fonctions en Ocaml, et du raisonnement. Pas de Djikstra ni de Floyd-Warshall. On aura le droit d'utiliser une fonction dans une questions suivante même si on a skip cette question.
 
 Lundi 15/04 :
 - Physique :
