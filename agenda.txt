@@ -6,6 +6,9 @@ Samedi 13/04 :
 - long problème avec des fonctions en Ocaml, et du raisonnement. Pas de Djikstra ni de Floyd-Warshall. On aura le droit d'utiliser une fonction dans une questions précédente même si on a skip cette question.
 
 Lundi 15/04 :
+- Physique :
+  - Terminer totalement TD force centrale
+  - Faire ex 3 et 5 du Td de thermo E5 n2
 - Anglais :
   - terminer les phrases
   - Ramener les plans rectifié insere dans cotre DS corrigé
