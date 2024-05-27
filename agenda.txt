@@ -1,3 +1,9 @@
 Lundi 27/05 :
 - Physique :
   - Terminer TD meca
+
+Samedi 1/06 :
+- Mecanique du solide
+- Thermo
+- Forces centrale
+- Energies potentielles
