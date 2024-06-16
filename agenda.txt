@@ -3,5 +3,5 @@ Vendredi 15/06 :
   - Interrogation sur l'Induction 
 
 Lundi  17/06 :
-- Physique
+- Physique :
   - Td ex 0, 1, 3, 4
